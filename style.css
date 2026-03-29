@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14%;
+}
+
+.graficos{
+    position: relative;
+    height: 30vh;
+    width: 30vw;
+}
